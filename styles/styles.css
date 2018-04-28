@@ -1,1 +1,21 @@
+﻿body {
+  background-color: darkgrey;
+  background-image:url('../images/portfoliobackground.jpg');
 
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+
+}
+
+.main-font {
+  font-size: 66px;
+  position: absolute;
+  top: 35%;
+  text-align:justify;
+  color: white;
+}
