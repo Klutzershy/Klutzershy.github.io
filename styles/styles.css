@@ -12,10 +12,28 @@
 
 }
 
+.drop_down_op {
+  opacity: 1;
+
+}
+
+.drop_down_op a {
+  opacity: 1 !important;
+  color: black;
+  text-decoration: none;
+}
+
+.bottom {
+  bottom: 0;
+}
+
 .main-font {
   font-size: 66px;
+  color: white;
+}
+
+.main_info {
   position: absolute;
   top: 35%;
   text-align:justify;
-  color: white;
 }
