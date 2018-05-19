@@ -1,7 +1,7 @@
 ﻿body {
   background-color: darkgrey;
-  background-image:url('../images/portfoliobackground.jpg');
-
+  background-image:url('../images/portfoliobackground.png');
+  background-size: cover;
 
   top: 0;
   left: 0;
@@ -13,7 +13,6 @@
 }
 
 .title {
-  color:white;
   font-size: 2em;
 }
 
@@ -34,7 +33,7 @@
 
 .main-font {
   font-size: 66px;
-  color: white;
+  color: black;
 }
 
 .main_info {
@@ -49,7 +48,7 @@
 
 .about {
   height: 200px;
-  color: white;
+  color: black;
   text-align: justify;
   margin-top: 30%;
 }
@@ -60,7 +59,13 @@
 
 .projects {
   height: 200px;
-  color: white;
+  color: black;
   text-align: justify;
   margin-top: 30%;
+}
+
+.friendo_art {
+  position: fixed;
+  font-size: 1.2em;
+
 }
