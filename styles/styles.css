@@ -5,8 +5,10 @@
 
   top: 0;
   left: 0;
+  font-family: LatoWebThin;
 
-  /* Preserve aspet ratio */
+
+  /* Preserve aspect ratio */
   min-width: 100%;
   min-height: 100%;
   height: 100%;
@@ -67,5 +69,4 @@
 .friendo_art {
   position: fixed;
   font-size: 1.2em;
-
 }
